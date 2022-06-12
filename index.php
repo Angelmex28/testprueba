@@ -7,6 +7,7 @@
     <title>Git</title>
 </head>
 <body>
-    
+    <h1>Hola Mundo</h1>
+    <h2>Este es mi primer proyecto en githud</h2>
 </body>
 </html>
